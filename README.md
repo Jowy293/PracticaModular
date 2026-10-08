@@ -15,7 +15,7 @@ PrintHub es un proyecto de comercio electrónico especializado en impresoras 3D.
 Para instalar el proyecto, primero clona el repositorio y accede a la carpeta del proyecto:
 
 ```bash
-git clone https://github.com/usuario/printhub.git
+git clone https://github.com/Jowy293/printhub.git
 cd printhub
 ```
 
